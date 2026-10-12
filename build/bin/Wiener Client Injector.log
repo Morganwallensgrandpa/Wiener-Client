@@ -1,0 +1,9 @@
+[12:25:52.456][INFO ][inject] target: pid=24412 exe=javaw.exe
+[12:25:52.456][INFO ][injector] window up
+[12:25:53.465][INFO ][inject] target: pid=24412 exe=javaw.exe
+[12:25:54.474][INFO ][inject] target: pid=24412 exe=javaw.exe
+[12:25:55.486][INFO ][inject] target: pid=24412 exe=javaw.exe
+[12:25:56.503][INFO ][inject] target: pid=24412 exe=javaw.exe
+[12:25:57.332][INFO ][inject] injected into pid 24412 (module base 0x31F50000)
+[12:25:57.508][INFO ][inject] target: pid=24412 exe=javaw.exe
+[12:25:58.522][INFO ][inject] target: pid=24412 exe=javaw.exe

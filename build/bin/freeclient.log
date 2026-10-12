@@ -1,0 +1,143 @@
+[09:32:28.739][INFO ][core] freeclient 1.0.0 booting for 1.21.11 (built Oct 12 2026 08:30:02)
+[09:32:28.739][INFO ][core] module Wiener Client.dll, written 2026-10-12 09:27:49
+[09:32:28.739][INFO ][catalog] registered 30 modules (22 with behaviour, 8 placeholders)
+[09:32:28.739][INFO ][core] catalog ready: 30 modules
+[09:32:28.753][INFO ][module] No Fall enabled
+[09:32:28.753][WARN ][module] No Fall has no implementation in this build yet (the server computes fall damage from its own fall distance; only a crafted move packet could change it)
+[09:32:28.753][INFO ][module] No Fall disabled
+[09:32:28.753][INFO ][selftest] catalog ok: 30 modules, 22 with behaviour, 8 placeholders
+[09:32:28.753][INFO ][selftest] nametag text, anti-idle nudge, yaw wrapping, click pulse and knockback window check out
+[09:32:28.786][INFO ][hooks] installed (SwapBuffers=00007ff91b4793e0)
+[09:32:28.949][INFO ][overlay] initialised (hwnd=00000000001f0b4a gl=4.6.0 NVIDIA 610.74)
+[09:32:28.949][INFO ][selftest] overlay up on GL 4.6.0 NVIDIA 610.74
+[09:32:28.949][INFO ][selftest] toggle key is Right Shift (Insert and Left Shift inert)
+[09:32:28.949][INFO ][selftest] projection and aim angles check out
+[09:32:28.962][DEBUG][jni] jvm.dll not loaded yet
+[09:32:28.963][INFO ][overlay] gl: client=800x500 viewport=800x500@(0,0) scissor=800x500@(0,0)
+[09:32:28.963][INFO ][ui] diag: open=1 progress=0.32 display=(800,500) style_alpha=1.00 mouse=(-340282346638528859811704183484516925440,-340282346638528859811704183484516925440) lists=5 vtx=5004
+[09:32:28.963][INFO ][ui]   root Begin() returned 1
+[09:32:28.963][INFO ][ui]   root: active=1 hidden=0 skip=0 pos=(0,0) size=(800,500) clip=(0,0,800,500) inner=(0,0,800,500) vtx=86 cmds=1
+[09:32:28.963][INFO ][ui]   rail: active=1 hidden=0 skip=0 pos=(158,186) size=(204,165) clip=(0,0,800,500) inner=(158,186,362,351) vtx=700 cmds=1
+[09:32:28.963][INFO ][ui]   content: active=1 hidden=0 skip=0 pos=(366,186) size=(274,169) clip=(0,0,800,500) inner=(366,186,640,355) vtx=1548 cmds=1
+[09:32:28.963][INFO ][ui]   list[0] owner=##Background vtx=1542 idx=6588 cmds=3 clip0=(0,0,800,500)
+[09:32:28.963][INFO ][ui]   list[1] owner=##fc_root vtx=86 idx=300 cmds=1 clip0=(0,0,800,500)
+[09:32:28.963][INFO ][ui]   list[2] owner=##fc_root/##fc_rail_669693CB vtx=700 idx=2478 cmds=1 clip0=(158,186,362,351)
+[09:32:28.963][INFO ][ui]   list[3] owner=##fc_root/##fc_content_2F3BAE43 vtx=1548 idx=4962 cmds=1 clip0=(366,186,640,355)
+[09:32:28.963][INFO ][ui]   list[4] owner=##Foreground vtx=1128 idx=2898 cmds=1 clip0=(0,0,800,500)
+[09:32:28.963][INFO ][ui]   layout: panel=(137,94,663,406) rail_item=(159,186,355,224) search=(0,0,0,0) row=(371,234,631,300) switch=(569,256,613,278) valid=1 cat=0 rows=5
+[09:32:28.990][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.023][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.054][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.086][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.119][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.150][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.182][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.212][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.244][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.275][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.306][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.339][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.339][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.341][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.341][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.341][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.341][INFO ][selftest] shipped accent rgb(255,79,163) (pink); mode 1 is rgb(139,92,246)
+[09:32:29.341][INFO ][selftest] click probe: row=(279,180)-(723,246) body=(500,213) switch=(683,213)
+[09:32:29.341][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.342][INFO ][module] Aim Assist enabled
+[09:32:29.342][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.342][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.342][INFO ][selftest]   left press at (683,213): mouse=(683,213) down=(1,0) out_of_window=0 hovered=##fc_root/##fc_content_2F3BAE43 active=1758318267
+[09:32:29.344][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.344][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.344][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.344][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.344][INFO ][module] Aim Assist disabled
+[09:32:29.344][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.346][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.346][INFO ][selftest]   left press at (683,213): mouse=(683,213) down=(1,0) out_of_window=0 hovered=##fc_root/##fc_content_2F3BAE43 active=1758318267
+[09:32:29.346][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.346][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.346][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.348][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.348][INFO ][module] Aim Assist enabled
+[09:32:29.348][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.348][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.349][INFO ][selftest]   left press at (500,213): mouse=(500,213) down=(1,0) out_of_window=0 hovered=##fc_root/##fc_content_2F3BAE43 active=2424193572
+[09:32:29.349][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.349][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.351][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.351][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.351][INFO ][module] Aim Assist disabled
+[09:32:29.351][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.351][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.353][INFO ][selftest]   left press at (500,213): mouse=(500,213) down=(1,0) out_of_window=0 hovered=##fc_root/##fc_content_2F3BAE43 active=2424193572
+[09:32:29.353][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.353][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.353][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.354][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.355][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.355][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.355][INFO ][selftest]   right press at (500,213): mouse=(500,213) down=(0,1) out_of_window=0 hovered=##fc_root/##fc_content_2F3BAE43 active=0
+[09:32:29.356][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.356][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.357][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.357][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.357][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.357][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.358][INFO ][selftest]   right press at (500,213): mouse=(500,213) down=(0,1) out_of_window=0 hovered=##fc_root/##fc_content_2F3BAE43 active=0
+[09:32:29.359][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.359][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.359][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.360][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.360][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.387][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.418][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.449][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.480][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.510][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.541][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.573][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.605][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.636][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.667][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.699][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.731][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.763][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.780][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.811][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.842][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.874][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.891][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.922][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.955][INFO ][module] ESP enabled
+[09:32:29.955][INFO ][module] Nametags enabled
+[09:32:29.955][INFO ][module] Tracers enabled
+[09:32:29.955][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.955][DEBUG][esp] 1 target(s) in range, 1 drawn
+[09:32:29.955][DEBUG][nametags] 1 plate(s)
+[09:32:29.955][DEBUG][tracers] 1 line(s)
+[09:32:29.957][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.957][DEBUG][esp] no camera yet (no world, or a member did not resolve)
+[09:32:29.957][INFO ][module] Nametags disabled
+[09:32:29.957][INFO ][module] Tracers disabled
+[09:32:29.957][INFO ][module] ESP disabled
+[09:32:29.957][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.957][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.957][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.961][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.961][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.961][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.962][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.962][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.962][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.964][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.964][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.965][DEBUG][jni] jvm.dll not loaded yet
+[09:32:29.965][INFO ][selftest] watermark follows its corner setting
+[09:32:29.969][INFO ][selftest] frame hook target=00007ff91b4793e0, 74% of the window was drawn
+[09:32:29.969][INFO ][selftest] ESP drew 1 box (392 ink pixels where the projection says it should be), and nothing without a world
+[09:32:29.969][INFO ][selftest] Nametags drew 1 plate (143 ink pixels) and Tracers 1 line
+[09:32:29.969][INFO ][selftest] widgets sit on top of the glass (sidebar=402, search=62 bright pixels)
+[09:32:29.969][INFO ][selftest] a left click on a row and on its switch each toggle the module exactly once, and a right click opens its settings without touching it
+[09:32:29.969][INFO ][selftest] overlay self-test complete (blur ok, 74% drawn)
